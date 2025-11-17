@@ -16,7 +16,7 @@
 // ============================================================================
 // Replace "YOUR_API_KEY_HERE" with the API key from your Atlas Panel
 // You can find this in the panel after creating an application by clicking "View API"
-const std::string AuthAPIKEY = "9hzJ6V4ejRitW5OzI8zmepUaCI0eimU3nrnXdel6II5FWUVHJZPAdSagoiLjuDaH";
+const std::string AuthAPIKEY = "YOUR_API_KEY_HERE";
 
 int main()
 {
